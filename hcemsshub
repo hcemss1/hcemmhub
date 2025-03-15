@@ -102,4 +102,3 @@ if not _G.FX_Options then
     }
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RedGamer12/TNNP-SYSTEM/refs/heads/main/client/Kin
